@@ -1,0 +1,53 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: white;
+  background-color: #91643a;
+  padding: 0.5em;
+}
+
+h2 {
+  color: #e67e22;
+}
+
+.biscuit-card {
+  width: 20%;
+  border: 3px solid #91643a;
+  padding: 0.7em;
+  margin: 0.7em;
+}
+
+.biscuit-container {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.button {
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: wh;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  margin-bottom: 10px;
+}
+
+.button:hover {
+  background-color: #91643a;
+  color: white;
+}
+
+.button:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
