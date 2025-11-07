@@ -29,6 +29,7 @@ My topic has been to learn a new language - PHP.
 ## Links
 
 [My Trello board](https://trello.com/invite/b/68da6658a2bd8f580253cde9/ATTIafe918607902417ce5bd07f2a08b48d3D5BCDDE3/my-trello-board)  
-[PHP Manua](https://www.php.net/manual)  
+[PHP Manual](https://www.php.net/manual)  
+[PHP The Right Way](https://phptherightway.com/)  
 [Codecademy PHP](https://www.codecademy.com/learn/learn-php-introduction)  
 [Laracast PHP For Beginners](https://laracasts.com/series/php-for-beginners-2023-edition)
